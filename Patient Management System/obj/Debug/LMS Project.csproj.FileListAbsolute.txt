@@ -1,0 +1,13 @@
+C:\Users\Viraj Paneliya\source\repos\LMS Project\bin\Debug\LMS.accdb
+C:\Users\Viraj Paneliya\source\repos\LMS Project\bin\Debug\LMS Project.exe.config
+C:\Users\Viraj Paneliya\source\repos\LMS Project\bin\Debug\LMS Project.exe
+C:\Users\Viraj Paneliya\source\repos\LMS Project\bin\Debug\LMS Project.pdb
+C:\Users\Viraj Paneliya\source\repos\LMS Project\obj\Debug\LMS Project.csprojAssemblyReference.cache
+C:\Users\Viraj Paneliya\source\repos\LMS Project\obj\Debug\LMS_Project.Form1.resources
+C:\Users\Viraj Paneliya\source\repos\LMS Project\obj\Debug\LMS_Project.Patient_Mastar_form.resources
+C:\Users\Viraj Paneliya\source\repos\LMS Project\obj\Debug\LMS_Project.Properties.Resources.resources
+C:\Users\Viraj Paneliya\source\repos\LMS Project\obj\Debug\LMS Project.csproj.GenerateResource.cache
+C:\Users\Viraj Paneliya\source\repos\LMS Project\obj\Debug\LMS Project.csproj.CoreCompileInputs.cache
+C:\Users\Viraj Paneliya\source\repos\LMS Project\obj\Debug\LMS Project.exe
+C:\Users\Viraj Paneliya\source\repos\LMS Project\obj\Debug\LMS Project.pdb
+C:\Users\Viraj Paneliya\source\repos\LMS Project\obj\Debug\LMS_Project.Search.resources
